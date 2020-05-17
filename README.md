@@ -1,1 +1,1 @@
-# blue_green_pipeline
+# blue-green-deployment
